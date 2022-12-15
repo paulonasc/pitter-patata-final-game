@@ -1,5 +1,8 @@
 # Potato-Project
 
+Unity Version: 2021.3.13f1
+Website URL: https://pitter-patata-website.vercel.app/
+
 Pitter Patata is a game that was heavily influenced by the popular game, The Escapists: Prison Escape. Like The Escapists, Pitter Patata is a fast-paced and strategic game that puts players on the edge of their seats. However, instead of escaping from a prison, players take on the role of a potato trying to escape from humans.
 
 In 2022, scientists conducted experiments on potatoes. Little did they know, the potatoes would come to life. Pitter Patata follows the life of a potato trying to escape from humans after discovering the atrocities they have committed on potatoes for thousands of years. As a potato, you have to collect your fellow potato friends which are in buckets, and escape from the humans.
